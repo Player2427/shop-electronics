@@ -1,0 +1,1 @@
+Дизайн https://www.figma.com/file/nj5laRI7a0tQwDW0pA1aFW/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0?type=design&node-id=0-1&t=HVvQyYqD7z2O2HVl-0
