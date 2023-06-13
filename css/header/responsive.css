@@ -1,0 +1,17 @@
+@media (min-width: 768px) {
+    .top-header {
+        height: 72px;
+        padding: 12px 20px;
+    }
+
+    .header-logo {
+        width: 159px;
+        height: 46px;
+    }
+    
+    .button-header {
+        width: 99px;
+        height: 48px;
+    }  
+    
+}
